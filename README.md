@@ -1,5 +1,5 @@
 # Welcome to my page! 
-I'm Ryan, a Data Scientist and Navy Veteran in San Antonio, TX.
+I'm Ryan, a Business Analyst and Navy Veteran in San Antonio, TX.
 
 > Code is like humor. When you have to explain it, it’s bad. – Cory House
 <!--
